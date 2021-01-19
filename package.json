@@ -1,0 +1,22 @@
+{
+  "name": "nodejs.pwa",
+  "version": "1.0.0",
+  "description": "projeto back para pwa em angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexvitorino/nodejs.pwa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexvitorino/nodejs.pwa/issues"
+  },
+  "homepage": "https://github.com/lexvitorino/nodejs.pwa#readme",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  }
+}
